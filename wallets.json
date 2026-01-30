@@ -1,0 +1,29 @@
+{
+  "my-wallet": {
+    "name": "my-wallet",
+    "balance": 175.25,
+    "transactions": [
+      {
+        "id": "1769760260923894609",
+        "transaction_type": "Credit",
+        "amount": 100.5,
+        "description": "Initial deposit",
+        "timestamp": "2026-01-30T08:04:20.923899940Z"
+      },
+      {
+        "id": "1769760271199810159",
+        "transaction_type": "Debit",
+        "amount": 25.75,
+        "description": "Coffee purchase",
+        "timestamp": "2026-01-30T08:04:31.199814304Z"
+      },
+      {
+        "id": "1769761677588718912",
+        "transaction_type": "Credit",
+        "amount": 100.5,
+        "description": "Initial deposit",
+        "timestamp": "2026-01-30T08:27:57.588720278Z"
+      }
+    ]
+  }
+}
